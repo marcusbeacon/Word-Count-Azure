@@ -1,4 +1,4 @@
-#CS 1660 Homework 3: Word Count on Azure  
+# CS 1660 Homework 3: Word Count on Azure  
 
 
 OneDrive link to data used for word count:  
